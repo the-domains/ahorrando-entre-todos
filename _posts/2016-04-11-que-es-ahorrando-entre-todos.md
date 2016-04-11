@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Qué es ahorrando entre todos?
-datePublished: '2016-04-11T19:53:30.908Z'
-dateModified: '2016-04-11T19:52:53.785Z'
+datePublished: '2016-04-11T19:58:37.333Z'
+dateModified: '2016-04-11T19:58:10.720Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-11-que-es-ahorrando-entre-todos.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-11-que-es-ahorrando-entre-todos.md
-published: true
 url: que-es-ahorrando-entre-todos/index.html
 _type: Article
 
