@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Comprador base / colabora sumándose a la compra con un pedido mínimo que permite el comprar en cantidad. Retira su mercadería en el día, horario y zona que más cómodo le quede. Es prolijo, voluntarioso y siempre está sumando vecinos al sistema. Recibe a cambio la mejor fruta y verdura a un precio buenísimo!'
-datePublished: '2016-04-17T14:52:59.811Z'
-dateModified: '2016-04-17T14:52:18.254Z'
+datePublished: '2016-04-17T14:58:55.910Z'
+dateModified: '2016-04-17T14:53:06.822Z'
 title: Distintas partes de la cadena o cómo colaborar
 author: []
 sourcePath: _posts/2016-04-17-distintas-partes-de-la-cadena-o-como-colaborar.md
