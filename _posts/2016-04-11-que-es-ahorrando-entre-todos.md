@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Por ejemplo supongamos que tenés un coche que permanece todo el día estacionado en tu trabajo o en tu casa porque solo lo utilizás los fines de semana. Sigamos suponiendo que como la mayoría de las personas, consumís frutas y verduras que comprás en tu barrio a un precio digamos, normal. Por último, es muy probable que no le dediques mucho tiempo a pensar en esa actividad y varias veces por semana tengas que visitar la verdulería o el super más cercano, hacer colas, volver porque te olvidaste algo o simplemente salir de tu casa cuando podrías haber utilizado ese tiempo para otra cosa.'
-datePublished: '2016-04-17T14:21:08.440Z'
-dateModified: '2016-04-17T14:19:24.191Z'
+datePublished: '2016-04-17T14:54:50.946Z'
+dateModified: '2016-04-17T14:54:34.556Z'
 title: Qué es ahorrando entre todos?
 author: []
 sourcePath: _posts/2016-04-11-que-es-ahorrando-entre-todos.md
@@ -23,6 +23,8 @@ _type: Article
 
 ---
 # Qué es **ahorrando entre todos**?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9855d50b-f5a2-4d8a-bfc6-5a20f0634701.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de57e176-f13c-45a7-9a0f-6645c6194987.jpg)
 
 ## Es una plataforma de compra colaborativa donde cada uno aporta desde el lugar que puede. **Ahorrando entre todos** se encarga de explotar cada colaboración al máximo, obteniendo ganancias para todos.
 
