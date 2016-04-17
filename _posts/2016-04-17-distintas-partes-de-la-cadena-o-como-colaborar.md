@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Comprador base / colabora sumándose a la compra con un pedido mínimo que permite el comprar en cantidad. Retira su mercadería en el día, horario y zona que más cómodo le quede. Es prolijo, voluntarioso y siempre está sumando vecinos al sistema. Recibe a cambio la mejor fruta y verdura a un precio buenísimo!'
-datePublished: '2016-04-17T16:02:52.872Z'
-dateModified: '2016-04-17T16:02:47.132Z'
+datePublished: '2016-04-17T16:04:30.490Z'
+dateModified: '2016-04-17T16:03:52.700Z'
 title: Distintas partes de la cadena o cómo colaborar
 author: []
 sourcePath: _posts/2016-04-17-distintas-partes-de-la-cadena-o-como-colaborar.md
@@ -32,4 +32,4 @@ Las distintas maneras de participar en **Ahorrando **ofrecen por decirlo de algu
 
 **Ponedor de casa / **además de hacer su pedido semanal, amablemente destina su lugar y dos horas de la semana como punto de encuentro de otros compradores y asegura mediante insistencia barrial, un mínimo de pedidos. Recibe a cambio su pedido y toda la mercadería en el lugar que lo decida.
 
-**Prestador de auto / **coordina para dejar o prestar su coche en un punto y horario fijo cada semana. Recibe luego el coche listo, con toda la mercadería dentro más una cuota pag
+**Prestador de auto / **coordina para dejar o prestar su coche en un punto y horario fijo cada semana. Recibe luego el coche listo, con toda la mercadería dentro más una cuota pag ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9351b0f-4271-4746-bf75-f36987eaf6ec.jpg)
