@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-17T14:31:35.287Z'
-dateModified: '2016-04-17T14:31:34.913Z'
+description: 'Comprador base / colabora sumándose a la compra con un pedido mínimo que permite el comprar en cantidad. Retira su mercadería en el día, horario y zona que más cómodo le quede. Es prolijo, voluntarioso y siempre está sumando vecinos al sistema. Recibe a cambio la mejor fruta y verdura a un precio buenísimo!'
+datePublished: '2016-04-17T14:52:59.811Z'
+dateModified: '2016-04-17T14:52:18.254Z'
 title: Distintas partes de la cadena o cómo colaborar
 author: []
 sourcePath: _posts/2016-04-17-distintas-partes-de-la-cadena-o-como-colaborar.md
@@ -23,6 +23,13 @@ _type: Article
 
 ---
 # Distintas partes de la cadena o cómo colaborar
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7181002a-d695-4e69-8f83-c10ad21f6a43.jpg)
 
 ## Quien elige formar parte de este encuentro de recursos, voluntades y personas, elige también de qué manera participar. Cada uno de los roles recibe una compesación proporcional al esfuerzo que invierte. Cada esfuerzo se potencia con el otro y todo resulta en beneficio.
+
+Las distintas maneras de participar en **Ahorrando **ofrecen por decirlo de alguna manera, distintos tipos de **recompensas:**
+
+**Comprador base / **colabora sumándose a la compra con un pedido mínimo que permite el comprar en cantidad. Retira su mercadería en el día, horario y zona que más cómodo le quede. Es prolijo, voluntarioso y siempre está sumando vecinos al sistema. Recibe a cambio la mejor fruta y verdura a un precio buenísimo!
+
+**Ponedor de casa / **además de hacer su pedido semanal, amablemente destina su lugar y dos horas de la semana como punto de encuentro de otros compradores y asegura mediante insistencia barrial, un mínimo de pedidos. Recibe a cambio su pedido y toda la mercadería en el lugar que lo decida.
+
+**Prestador de auto / **coordina para dejar o prestar su coche en un punto y horario fijo cada semana. Recibe luego el coche listo, con toda la mercadería dentro más una cuota pag ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6205fc99-cd50-4496-8418-2bb953058048.jpg)
