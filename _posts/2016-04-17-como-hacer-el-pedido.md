@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-17T16:16:25.394Z'
-dateModified: '2016-04-17T16:15:34.124Z'
+description: "En primer lugar, tenés que entrar al link de pedido semanal:\_http://bit.ly/pedidosdelasemana"
+datePublished: '2016-04-17T16:18:08.037Z'
+dateModified: '2016-04-17T16:17:10.902Z'
+title: Cómo hacer el pedido
+author: []
+sourcePath: _posts/2016-04-17-como-hacer-el-pedido.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Cómo hacer el pedido
-author: []
-sourcePath: _posts/2016-04-17-como-hacer-el-pedido.md
-published: true
 url: como-hacer-el-pedido/index.html
 _type: Article
 
