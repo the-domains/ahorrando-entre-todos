@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Por ejemplo supongamos que tenés un coche que permanece todo el día estacionado en tu trabajo o en tu casa porque solo lo utilizás los fines de semana. Sigamos suponiendo que como la mayoría de las personas, consumís frutas y verduras que comprás en tu barrio a un precio digamos, normal. Por último, es muy probable que no le dediques mucho tiempo a pensar en esa actividad y varias veces por semana tengas que visitar la verdulería o el super más cercano, hacer colas, volver porque te olvidaste algo o simplemente salir de tu casa cuando podrías haber utilizado ese tiempo para otra cosa.'
-datePublished: '2016-04-17T14:59:21.646Z'
-dateModified: '2016-04-17T14:59:16.575Z'
+datePublished: '2016-04-17T14:59:50.582Z'
+dateModified: '2016-04-17T14:59:30.407Z'
 title: Qué es ahorrando entre todos?
 author: []
 sourcePath: _posts/2016-04-11-que-es-ahorrando-entre-todos.md
