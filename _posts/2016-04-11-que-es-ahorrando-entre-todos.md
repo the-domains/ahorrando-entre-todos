@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: undefined
-datePublished: '2016-04-17T13:55:18.169Z'
-dateModified: '2016-04-17T13:52:57.287Z'
+description: 'Por ejemplo supongamos que tenés un coche que permanece todo el día estacionado en tu trabajo o en tu casa porque solo lo utilizás los fines de semana. Sigamos suponiendo que como la mayoría de las personas, consumís frutas y verduras que comprás en tu barrio a un precio digamos, normal. Por último, es muy probable que no le dediques mucho tiempo a pensar en esa actividad y varias veces por semana tengas que visitar la verdulería o el super más cercano, hacer colas, volver porque te olvidaste algo o simplemente salir de tu casa cuando podrías haber utilizado ese tiempo para otra cosa.'
+datePublished: '2016-04-17T14:21:08.440Z'
+dateModified: '2016-04-17T14:19:24.191Z'
 title: Qué es ahorrando entre todos?
 author: []
 sourcePath: _posts/2016-04-11-que-es-ahorrando-entre-todos.md
@@ -32,4 +32,4 @@ Al mismo tiempo en otro punto de la ciudad, alguien está pensando en _consumir 
 
 Finalmente me encuentro yo, un frutariano frenético y obsesivo que consume exclusivamente frutas y lechugas frescas y crudas. Debido a lo que supone este tipo de alimentación apunto a comer todo lo orgánico que puedo pero por sobre todo, a comer rico; ambas cosas suelen resultar en complicación. En primer lugar, para mí también el comer orgánico me es a veces inalcanzable en materia de costos y logística. En segundo lugar, resulta complicadísimo conseguir fruta rica y fresca sin tener que perder enormes cantidades de tiempo en ello.
 
-**Ahorrando entre todos **permite solucionar cada uno de estos problemas mediante el esfuerzo colectivo:
+**Ahorrando entre todos **permite solucionar cada uno de estos problemas mediante el esfuerzo colectivo: unos colaboran con sus coches, otros reunen tías y vecinos del piso mientras que quienes hacemos **ahorrando**, vamos y elegimos la mejor fruta y verdura posible y al mejor precio que nos da el comprar en cantidad.
