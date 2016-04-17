@@ -1,7 +1,7 @@
 name: Ahorrando Entre Todos
 favicon: null
-layout_spectrum: 0.7767
-typography_spectrum: 0.15189
+layout_spectrum: 0.77322
+typography_spectrum: 0.35874
 title: Ahorrando entre todos
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#efefef'
-    - '#1c1c1c'
-    - '#c2c2c2'
-    - '#7b7b7b'
-    - '#a3a3a3'
-  brandStrength: 0.8125
-  lightness: 0.625
-  saturation: 0.8125
+    - '#ebe6e3'
+    - '#1e3137'
+    - '#3e4847'
+    - '#76786b'
+    - '#bdb2a0'
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.4375
   rhythmicContrast: 0.5
 purpose: []
