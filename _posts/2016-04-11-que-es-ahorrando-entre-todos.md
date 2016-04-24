@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Finalmente me encuentro yo, un frutariano frenético y obsesivo que consume exclusivamente frutas y lechugas frescas y crudas. Debido a lo que supone este tipo de alimentación apunto a comer todo lo orgánico que puedo pero por sobre todo a comer rico; ambas cosas suelen resultar en complicación. En primer lugar para mí también el comer orgánico me es a veces inalcanzable en materia de costos y logística. En segundo lugar, resulta complicadísimo conseguir fruta rica y fresca sin tener que perder enormes cantidades de tiempo en ello.'
-datePublished: '2016-04-24T14:38:16.026Z'
-dateModified: '2016-04-24T14:35:53.258Z'
-title: Qué es ahorrando entre todos?
+description: 'Supongamos que tenés un coche que permanece todo el día estacionado en tu trabajo o en tu casa porque solo lo utilizás los fines de semana. Sigamos suponiendo que como la mayoría de las personas, consumís frutas y verduras que comprás en tu barrio a un precio digamos, normal. Por último, es muy probable que no le dediques mucho tiempo a '
+datePublished: '2016-04-24T14:48:06.167Z'
+dateModified: '2016-04-24T14:38:19.800Z'
+title: Qué esahorrando entre todos?
 author: []
 sourcePath: _posts/2016-04-11-que-es-ahorrando-entre-todos.md
 published: true
@@ -22,15 +22,15 @@ url: que-es-ahorrando-entre-todos/index.html
 _type: Article
 
 ---
-Finalmente me encuentro yo, un frutariano frenético y obsesivo que consume exclusivamente frutas y lechugas frescas y crudas. Debido a lo que supone este tipo de alimentación apunto a comer todo lo orgánico que puedo pero por sobre todo_a comer rico_; ambas cosas suelen resultar en complicación. En primer lugar para mí también el comer orgánico me es a veces inalcanzable en materia de costos y logística. En segundo lugar, resulta complicadísimo conseguir fruta rica y fresca sin tener que perder enormes cantidades de tiempo en ello.
-
-# Qué es **ahorrando entre todos**?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7ef1c3d-e010-48e1-a207-b1e4f3b4d6a1.jpg)
+# Qué es**ahorrando entre todos**?
 
 ## Es una plataforma en línea y sistema físico de compra participativa diseñado para obtener la mejor calidad pero al menor costo, haciendo uso de recursos desaprovechados y la quita de los intermediarios.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7ef1c3d-e010-48e1-a207-b1e4f3b4d6a1.jpg)
 
-Supongamos que tenés un coche que permanece todo el día estacionado en tu trabajo o en tu casa porque solo lo utilizás los fines de semana. Sigamos suponiendo que como la mayoría de las personas, consumís frutas y verduras que comprás en tu barrio a un precio digamos, normal. Por último, es muy probable que no le dediques mucho tiempo a _pensar_ en esa actividad y varias veces por semana tengas que visitar la verdulería o el super más cercano, hacer colas, volver porque te olvidaste algo o simplemente salir de tu casa cuando podrías haber utilizado ese tiempo para otra cosa.
+Supongamos que tenés un coche que permanece todo el día estacionado en tu trabajo o en tu casa porque solo lo utilizás los fines de semana. Sigamos suponiendo que como la mayoría de las personas, consumís frutas y verduras que comprás en tu barrio a un precio digamos, normal. Por último, es muy probable que no le dediques mucho tiempo a 
 
 Al mismo tiempo en otro punto de la ciudad alguien está pensando en _consumir más productos orgánicos _y empieza a investigar un poco: todas las opciones que encuentra están _bastante fuera de su presupuesto_. Además los puntos y horarios de entrega son muy acotados, teniendo que quedarse obligadamente en casa para recibirlos o conseguir quién lo haga por él. Por si fuera poco, _solo puede comprarles mercadería orgánica _por lo que debe contemplar conseguir el resto -aquella que queda fuera de sus posibilidades económicas-, en la verdu del barrio.
+
+Finalmente me encuentro yo, un frutariano frenético y obsesivo que consume exclusivamente frutas y lechugas frescas y crudas. Debido a lo que supone este tipo de alimentación apunto a comer todo lo orgánico que puedo pero por sobre todo _a comer rico_; ambas cosas suelen resultar en complicación. En primer lugar para mí también el comer orgánico me es a veces inalcanzable en materia de costos y logística. En segundo lugar, resulta complicadísimo conseguir fruta rica y fresca sin tener que perder enormes cantidades de tiempo en ello.
 
 **Ahorrando entre todos **busca _solucionar cada uno de estos problemas mediante el esfuerzo colectivo_: unos colaboran con sus coches, otros reúnen tías y vecinos del piso mientras quienes hacemos **ahorrando**, rediseñamos el sistema de manera constante y nos encargamos de elegir la mejor fruta y verdura posible, al mejor precio que nos da el comprar en cantidad.
