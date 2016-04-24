@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Podés formar parte de este sistema de tres maneras posibles: como comprador semanal, como punto de entrega o como prestador de coche.'
-datePublished: '2016-04-24T16:33:07.975Z'
-dateModified: '2016-04-24T14:40:49.509Z'
+datePublished: '2016-04-24T16:44:54.756Z'
+dateModified: '2016-04-24T16:43:05.043Z'
 title: Cómo puedo participar?
 author: []
 sourcePath: _posts/2016-04-24-cuanto-ahorramos.md
