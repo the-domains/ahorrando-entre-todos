@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Supongamos que tenés un coche que permanece todo el día estacionado en tu trabajo o en tu casa porque solo lo utilizás los fines de semana. Sigamos suponiendo que como la mayoría de las personas, consumís frutas y verduras que comprás en tu barrio a un precio digamos, normal. Por último, es muy probable que no le dediques mucho tiempo a '
-datePublished: '2016-04-24T16:32:11.445Z'
-dateModified: '2016-04-24T16:32:08.882Z'
+datePublished: '2016-04-24T16:40:53.285Z'
+dateModified: '2016-04-24T16:39:06.465Z'
 title: Qué es ahorrando entre todos?
 author: []
 sourcePath: _posts/2016-04-11-que-es-ahorrando-entre-todos.md
@@ -34,3 +34,5 @@ Al mismo tiempo en otro punto de la ciudad alguien está pensando en _consumir m
 Finalmente me encuentro yo, un frutariano frenético y obsesivo que consume exclusivamente frutas y lechugas frescas y crudas. Debido a lo que supone este tipo de alimentación apunto a comer todo lo orgánico que puedo pero por sobre todo _a comer rico_; ambas cosas suelen resultar en complicación. En primer lugar para mí también el comer orgánico me es a veces inalcanzable en materia de costos y logística. En segundo lugar, resulta complicadísimo conseguir fruta rica y fresca sin tener que perder enormes cantidades de tiempo en ello.
 
 **Ahorrando entre todos **busca _solucionar cada uno de estos problemas mediante el esfuerzo colectivo_: unos colaboran con sus coches, otros reúnen tías y vecinos del piso mientras quienes hacemos **ahorrando**, rediseñamos el sistema de manera constante y nos encargamos de elegir la mejor fruta y verdura posible, al mejor precio que nos da el comprar en cantidad.
+
+Actualmente ya funciona el sistema físico. Hacer pedidos, seguir tu cuenta corriente y otras yerbas puede ser aun complicado. Mientras nos encontramos desarrollando la plataforma en línea (apple + android + webapp)
