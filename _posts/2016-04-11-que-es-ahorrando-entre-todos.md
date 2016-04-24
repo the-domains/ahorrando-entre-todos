@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Supongamos que tenés un coche que permanece todo el día estacionado en tu trabajo o en tu casa porque solo lo utilizás los fines de semana. Sigamos suponiendo que como la mayoría de las personas, consumís frutas y verduras que comprás en tu barrio a un precio digamos, normal. Por último, es muy probable que no le dediques mucho tiempo a '
-datePublished: '2016-04-24T16:40:53.285Z'
-dateModified: '2016-04-24T16:39:06.465Z'
+datePublished: '2016-04-24T16:46:45.680Z'
+dateModified: '2016-04-24T16:41:00.411Z'
 title: Qué es ahorrando entre todos?
 author: []
 sourcePath: _posts/2016-04-11-que-es-ahorrando-entre-todos.md
@@ -35,4 +35,4 @@ Finalmente me encuentro yo, un frutariano frenético y obsesivo que consume excl
 
 **Ahorrando entre todos **busca _solucionar cada uno de estos problemas mediante el esfuerzo colectivo_: unos colaboran con sus coches, otros reúnen tías y vecinos del piso mientras quienes hacemos **ahorrando**, rediseñamos el sistema de manera constante y nos encargamos de elegir la mejor fruta y verdura posible, al mejor precio que nos da el comprar en cantidad.
 
-Actualmente ya funciona el sistema físico. Hacer pedidos, seguir tu cuenta corriente y otras yerbas puede ser aun complicado. Mientras nos encontramos desarrollando la plataforma en línea (apple + android + webapp)
+Actualmente nos encontramos desarrollando la plataforma en línea (apple + android + webapp) mientras que el sistema físico ya está funcionando perfectamente. Entendemos que el proceso puede ser complicado ahora pero con un poco de tiempo, podrás formar parte sin problemas!
