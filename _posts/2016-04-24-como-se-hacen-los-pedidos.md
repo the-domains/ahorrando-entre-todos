@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'La mercadería está lista los días Jueves. El plazo final para hacer el pedido es el día Lunes anterior a las 21 hr. Recuerden que compramos en grandes cantidades y eso lleva una coordinación tremenda. Si no contamos con su pedido a tiempo, no podemos cerrar el pedido general por lo que queda descartado del pedido semanal.'
-datePublished: '2016-04-24T14:46:27.274Z'
-dateModified: '2016-04-24T14:46:26.698Z'
+datePublished: '2016-04-24T16:34:36.720Z'
+dateModified: '2016-04-24T16:32:39.343Z'
 title: Cómo se hacen los pedidos?
 author: []
+sourcePath: _posts/2016-04-24-como-se-hacen-los-pedidos.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-como-se-hacen-los-pedidos.md
-published: true
 url: como-se-hacen-los-pedidos/index.html
 _type: Article
 
