@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Supongamos que tenés un coche que permanece todo el día estacionado en tu trabajo o en tu casa porque solo lo utilizás los fines de semana. Sigamos suponiendo que como la mayoría de las personas, consumís frutas y verduras que comprás en tu barrio a un precio digamos, normal. Por último, es muy probable que no le dediques mucho tiempo a '
-datePublished: '2016-04-24T14:48:06.167Z'
-dateModified: '2016-04-24T14:38:19.800Z'
-title: Qué esahorrando entre todos?
+datePublished: '2016-04-24T16:32:11.445Z'
+dateModified: '2016-04-24T16:32:08.882Z'
+title: Qué es ahorrando entre todos?
 author: []
 sourcePath: _posts/2016-04-11-que-es-ahorrando-entre-todos.md
 published: true
@@ -22,7 +22,7 @@ url: que-es-ahorrando-entre-todos/index.html
 _type: Article
 
 ---
-# Qué es**ahorrando entre todos**?
+# Qué es **ahorrando entre todos**?
 
 ## Es una plataforma en línea y sistema físico de compra participativa diseñado para obtener la mejor calidad pero al menor costo, haciendo uso de recursos desaprovechados y la quita de los intermediarios.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7ef1c3d-e010-48e1-a207-b1e4f3b4d6a1.jpg)
