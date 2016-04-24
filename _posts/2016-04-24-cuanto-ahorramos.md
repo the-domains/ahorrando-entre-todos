@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Los descuentos van de un 30% a un 50% de las verdulerías más económicas que puedas conseguir en tu barrio. Lo mismo sucede con el precio de productos orgánicos. Tené en cuenta también el ahorro de tiempo: solo invertís unos clicks a la semana para pedir y luego unos minutos para retirar la mercadería. Nosotros te enseñamos cómo pedir mejor, más rápido y gastar menos.'
-datePublished: '2016-04-24T14:29:59.394Z'
-dateModified: '2016-04-24T14:29:56.636Z'
+datePublished: '2016-04-24T14:33:29.363Z'
+dateModified: '2016-04-24T14:30:08.266Z'
 title: Cuánto ahorramos?
 author: []
+sourcePath: _posts/2016-04-24-cuanto-ahorramos.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-cuanto-ahorramos.md
-published: true
 url: cuanto-ahorramos/index.html
 _type: Article
 
