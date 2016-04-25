@@ -1,6 +1,6 @@
 name: Ahorrando Entre Todos
 favicon: null
-layout_spectrum: 0.40848
+layout_spectrum: 0.34466
 typography_spectrum: 0.12785
 title: Ahorrando entre todos
 cta:
@@ -23,7 +23,7 @@ color:
     - '#ef8829'
     - '#4f4f4f'
   brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.125
-  rhythmicContrast: 0.5
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
