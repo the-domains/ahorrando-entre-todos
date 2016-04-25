@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Comprador semanal | colabora pidiendo semanalmente una cantidad de frutas y verduras que pasa a retirar al punto y hora que más cómodo le queden más una ayuda de $50 para gastos de coche. A cambio tiene la mejor calidad que pueda conseguir en productos orgánicos y no orgánicos al precio de Ahorrando!'
-datePublished: '2016-04-25T14:09:25.974Z'
-dateModified: '2016-04-25T14:01:53.220Z'
+datePublished: '2016-04-25T17:27:57.254Z'
+dateModified: '2016-04-25T14:09:34.860Z'
 title: Cómo puedo participar?
 author: []
 sourcePath: _posts/2016-04-24-cuanto-ahorramos.md
