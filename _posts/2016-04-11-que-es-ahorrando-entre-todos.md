@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Supongamos que tenés un coche que permanece todo el día estacionado en tu trabajo o en tu casa porque solo lo utilizás los fines de semana. Sigamos suponiendo que como la mayoría de las personas, consumís frutas y verduras que comprás en tu barrio a un precio digamos, normal. Por último, es muy probable que no le dediques mucho tiempo a '
-datePublished: '2016-04-24T16:48:14.506Z'
-dateModified: '2016-04-24T16:46:49.521Z'
+datePublished: '2016-04-25T13:52:39.880Z'
+dateModified: '2016-04-25T13:52:39.275Z'
 title: Qué es ahorrando entre todos?
 author: []
 sourcePath: _posts/2016-04-11-que-es-ahorrando-entre-todos.md
