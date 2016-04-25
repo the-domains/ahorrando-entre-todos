@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Comprador semanal | colabora pidiendo semanalmente una cantidad de frutas y verduras que pasa a retirar al punto y hora que más cómodo le queden más una ayuda de $50 para gastos de coche. A cambio tiene la mejor calidad que pueda conseguir en productos orgánicos y no orgánicos al precio de Ahorrando!'
-datePublished: '2016-04-25T14:01:52.535Z'
-dateModified: '2016-04-25T14:00:10.081Z'
+datePublished: '2016-04-25T14:09:25.974Z'
+dateModified: '2016-04-25T14:01:53.220Z'
 title: Cómo puedo participar?
 author: []
 sourcePath: _posts/2016-04-24-cuanto-ahorramos.md
@@ -70,8 +70,9 @@ Nuevamente, varias razones:
 
 El encargado de elegir la mercadería en **Ahorrando **es frutariano -vive solamente de comer frutas y verduras crudas-, creador de Qué Tomate -verdu orgánica-, fanático de la alimentación y por si fuera poco, pide conjuntamente con el resto. Por ende apunta a la mejor relación calidad/precio que pueda conseguir. Sin embargo a veces, van a encontrar que el ahorro no es tanto con ciertos productos en particular. Lo que sucede:
 
-* _No es el mismo producto_: tomamos a la banana como ejemplo: hay de cinco países: Argentina, Paraguay, Brasil, Bolivia y Ecuador. A su vez distintas marcas de cada país. Luego, variedades Premium y más económicas. Finalmente, distintos tipos de maduración. Podrías decir de qué banana estamos hablando?
-* _Especulación_: las verdulerías muchas veces bajan a costo -o menos aun- algunos de sus productos para atraernos a comprar otros, usualmente a precios normales a altos.
+* _No es el mismo producto_: tomamos a la banana como ejemplo: hay de cinco países: Argentina, Paraguay, Brasil, Bolivia y Ecuador. A su vez distintas marcas de cada país. Luego, variedades Premium y más económicas. Finalmente, distintos tipos de maduración. Podrías decir de qué banana estamos hablando en cada caso?
+* _Especulación_: las verdulerías muchas veces bajan a costo -o menos aun- algunos de sus productos para atraernos a comprar otros, usualmente a precios altos.
+* _Subida en el día_: vemos el aumento antes que lo ves en tu verdulería. Los precios debieran cotejarse el día de llegado del pedido.
 * _Por izquierda_: muchas veces consiguen productos fuera de los mercados a precios tremendamente bajos. Si saben cómo hacerlo, nos escriben un mail!!! Nosotros, chochos!
 
 [0]: http://facebook.us3.list-manage2.com/track/click?u=af95a0ba324c3186e73f529e0&id=0a9f8f371b&e=14707f5419
