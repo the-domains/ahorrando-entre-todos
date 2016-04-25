@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Con Ahorrando intentamos que todo el mundo tenga acceso a un estilo de vida más saludable pero que también lo disfrute: comer más frutas y verduras tiene que ser rico, cómodo y accesible. Entendemos el cambio en la alimentación como el más político de todos los cambios y estamos acá para ayudar. Por eso no traemos productos de origen animal (sí, somos veganos!); participamos de la misma compra con el resto; elegimos personalmente qué queremos llevar a nuestro plato.'
-datePublished: '2016-04-25T14:09:15.305Z'
-dateModified: '2016-04-25T13:55:57.107Z'
+datePublished: '2016-04-25T17:28:04.855Z'
+dateModified: '2016-04-25T14:09:19.957Z'
 title: Ideología de Ahorrando
 author: []
 sourcePath: _posts/2016-04-24-ideologia-de-ahorrando.md
